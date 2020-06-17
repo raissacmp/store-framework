@@ -1,6 +1,11 @@
 {
   "store.home": {
-    "blocks": ["flex-layout.row", "flex-layout.col", "shelf"]
+    "blocks": [
+      "flex-layout.row",
+      "flex-layout.col",
+      "shelf",
+      "slider-layout#home"
+    ]
   },
 
   "flex-layout.row": {
