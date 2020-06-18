@@ -56,7 +56,7 @@
       "hideImpossibleCombinations": false,
       "initialSelection": "empty",
       "showVariationsErrorMessage": true,
-      "showValueForVariation": true
+      "showValueForVariation": "none"
     }
   },
 
