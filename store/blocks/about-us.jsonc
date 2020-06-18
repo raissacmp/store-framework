@@ -21,16 +21,16 @@
 
   "tab-list.item#home1": {
     "props": {
-      "label": " Major Appliances",
       "tabId": "majorAppliances",
+      "label": "Major Appliances",
       "defaultActiveTab": true
     }
   },
 
   "tab-list.item#home2": {
     "props": {
-      "label": "Eletronics",
-      "tabId": "electronics"
+      "tabId": "electronics",
+      "label": "Electronics"
     }
   },
 
