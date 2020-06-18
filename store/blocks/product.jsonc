@@ -55,7 +55,8 @@
     "props": {
       "hideImpossibleCombinations": false,
       "initialSelection": "empty",
-      "showVariationsErrorMessage": true
+      "showVariationsErrorMessage": true,
+      "showValueForVariation": true
     }
   },
 
