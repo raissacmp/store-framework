@@ -56,7 +56,8 @@
       "hideImpossibleCombinations": false,
       "initialSelection": "empty",
       "showVariationsErrorMessage": true,
-      "showValueForVariation": "none"
+      "showValueForVariation": "none",
+      "showValueNameForImageVariation": true
     }
   },
 
