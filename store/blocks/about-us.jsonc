@@ -21,7 +21,7 @@
 
   "tab-list.item#home1": {
     "props": {
-      "text": "# Major Appliances",
+      "label": " Major Appliances",
       "tabId": "majorAppliances",
       "defaultActiveTab": true
     }
@@ -29,7 +29,7 @@
 
   "tab-list.item#home2": {
     "props": {
-      "text": "# Eletronics",
+      "label": "Eletronics",
       "tabId": "electronics"
     }
   },
@@ -41,14 +41,14 @@
   "tab-content.item#home1": {
     "children": ["rich-text#home1"],
     "props": {
-      "tabId": "home1"
+      "tabId": "majorAppliances"
     }
   },
 
   "tab-content.item#home2": {
     "children": ["rich-text#home2"],
     "props": {
-      "tabId": "home2"
+      "tabId": "electronics"
     }
   },
 
