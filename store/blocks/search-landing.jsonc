@@ -14,7 +14,7 @@
       "hideUnavailableItems": false,
       "maxItemsPerPage": 8,
       "querySchema": {
-        "skusFilter": "Blue Top Retro Camera",
+        "query": "Blue Top Retro Camera",
         "mapField": "ft"
       }
     }
