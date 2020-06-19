@@ -15,7 +15,7 @@
       "maxItemsPerPage": 8,
       "querySchema": {
         "skusFilter": "Blue Top Retro Camera",
-        "simulationBehavior": "skip"
+        "mapField": "ft"
       }
     }
   }
